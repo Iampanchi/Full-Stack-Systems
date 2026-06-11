@@ -1,0 +1,5 @@
+[
+    { "name": "Alice", "scores": [85, 90, 78] },
+    { "name": "Bob", "scores": [60, 55, 70] },
+    { "name": "Charlie", "scores": [95, 88, 92] }
+]
